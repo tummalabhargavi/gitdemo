@@ -1,1 +1,2 @@
 hello this is the first file created using git
+doing the changes for the second time
