@@ -1,4 +1,6 @@
-hello this is the first file created using 
-git 
+devops
+hello 
 editing the file in branch named as devops
 doing some more changes in the file 
+this is the first file created 
+bugfix
